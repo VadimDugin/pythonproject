@@ -1,1 +1,22 @@
-p {color: red;}
+p {
+  color: red;
+}
+p {
+  font-size: 50px;
+}
+
+p.important {
+  font-size: 20px;
+  font-style: italic;
+}
+
+#intro {
+  font-style: italic;
+  color: aqua;
+}
+#asd {
+  color: blue;
+}
+#name {
+  color: royalblue;
+}
